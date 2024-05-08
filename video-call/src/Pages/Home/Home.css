@@ -1,0 +1,138 @@
+
+.home{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 30vw;
+    height: 60vh;
+    background: #12b6c2c5;
+    position: absolute;
+    right: 0%;
+}
+
+.home input{
+    width: 70%;
+    height: 14%;
+    outline: 0;
+    border: 0;
+    text-align: center;
+}
+
+.home input::placeholder{
+    font-size: 1rem;
+    font-weight: 800;
+}
+
+.home button{
+    margin-top: 1rem;
+    padding: .7rem 2rem;
+    font-size: 1.2rem;
+    cursor: pointer;
+    border: 0;
+}
+
+
+.container{
+    width: 50vw ;
+    height: 60vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: white;
+    position: relative;
+    margin-top: 6rem;
+   transform: translateX(50%);
+
+}
+
+.left{
+    width: 20vw;
+    height: 60vh;
+    background: #00b2e6;
+    position: relative;
+    overflow: hidden;
+}
+
+.left img{
+    
+  position: absolute;
+  top: 30%;
+  left: 6%;
+}
+
+
+@media(max-width:1240px){
+    .container{
+        width: 80vw;
+        transform: translateX(17%);
+
+    }
+    .home{
+        width: 45vw;
+    }
+
+    .left{
+        width: 35vw;
+    }
+    .left img{
+        left: 20%;
+        object-fit: cover;
+    }
+    .home input{
+        height: 7%;
+        width: 90%;
+    }
+    .home input::placeholder{
+        font-size: .7rem;
+    }
+    .home button{
+        padding: .5rem 1rem;
+    }
+}
+@media(max-width:1366px){
+    .container{
+        width: 80vw;
+        transform: translateX(17%);
+
+    }
+    .home{
+        width: 45vw;
+    }
+
+    .left{
+        width: 35vw;
+    }
+    .left img{
+        left: 20%;
+        object-fit: cover;
+        margin-top: 2rem;
+    }
+    .home input{
+        height: 7%;
+        width: 90%;
+    }
+    .home input::placeholder{
+        font-size: .7rem;
+    }
+    .home button{
+        padding: .5rem 1rem;
+    }
+}
+
+@media(max-width:731px){
+    .left img{
+        left: 0%;
+        object-fit: cover;
+        margin-top: 2rem;
+    }
+}
+
+@media(max-width:573px){
+    .left img{
+        left: 0%;
+        width: 30vw;
+        object-fit: cover;
+        margin-top: 2rem;
+    }
+}

@@ -1,4 +1,4 @@
 [build]
-  base = "/"
+  base = "D:/User Data Backup/Desktop/web-devlopment/React-projects/project-18/video-call/"
   command = "npm run build"
   publish = "build"

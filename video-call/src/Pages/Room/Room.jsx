@@ -10,8 +10,8 @@ const Room = () => {
   const myMeeting = async (element) => {
     const userID = Math.floor(Math.random() * 10000) + "";
     const userName = "userName" + userID;
-    const appID = `${import.meta.env.VITE_APP_ID}` ;
-    const serverSecret =`${import.meta.env.VITE_SERVER_SECRET}` ;
+    const appID =import.meta.env.VITE_APP_ID ;
+    const serverSecret =  import.meta.env.VITE_SERVER_SECRET;
     const kitToken = ZegoUIKitPrebuilt.generateKitTokenForTest(
       appID,
       serverSecret,

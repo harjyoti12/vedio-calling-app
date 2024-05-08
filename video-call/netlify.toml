@@ -1,4 +1,4 @@
 [build]
-  base = "D:/User Data Backup/Desktop/web-devlopment/React-projects/project-18/video-call/"
+  base = "D:/User Data Backup/Desktop/web-devlopment/React-projects/project-18/video-call/package.json"
   command = "npm run build"
   publish = "build"

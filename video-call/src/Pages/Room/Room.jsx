@@ -31,7 +31,7 @@ const Room = () => {
       },
       showRoomTimer:true,
       showLayoutButton: true,
-      maxUsers:6
+      maxUsers:6,
     });
   };
   return (

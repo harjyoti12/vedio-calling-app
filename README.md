@@ -38,13 +38,13 @@ An awesome Group video call app
 ![Product Screenshot](/project-img/New%20Incognito%20Tab%20-%20Google%20Chrome%2009-05-2024%2017_56_41.png)
 
 
-##Video Call App:
+## Video Call App:
 The Video Call App is a web application built with React.js that allows users to conduct video calls with one another. The app utilizes the Zego Cloud platform for real-time audio and video communication, providing a seamless and high-quality video calling experience.
 <br/>
 Users can sign up and log in securely using Firebase Authentication, ensuring that only authenticated users can access the video calling features. The app is designed to be responsive, allowing users to make video calls from various devices and screen sizes.
 <br/>
 Overall, the Video Call App provides a simple and effective solution for users to connect with each other through video calls, making it ideal for remote meetings, virtual events, and social interactions.
- ### Built With
+ ## Built With
 
 React.js - A JavaScript library for building user interfaces.
 <br/>
@@ -60,7 +60,7 @@ Netlify - Hosting platform for websites and web applications.
 
  ## Getting Started
 
-##To get started with the Video Call App, follow these steps:
+## To get started with the Video Call App, follow these steps:
 <br/>
 1.Clone the repository:
 git clone https://github.com/your-username/video-call-app.git
@@ -83,7 +83,7 @@ npm start
 The app should now be running locally. Open your browser and navigate to http://localhost:3000 to see the app in action.
 <br/>
 
-##Deploy to Netlify:
+## Deploy to Netlify:
 <br/>
 Sign up for a Netlify account if you haven't already.<br/>
 Install the Netlify CLI: npm install -g netlify-cli.<br/>
@@ -94,7 +94,7 @@ Now, your Video Call App should be up and running both locally and on Netlify!
 <br/>
  ## Usage
 
-##Sign Up or Log In:
+## Sign Up or Log In:
 If you don't have an account, sign up with your email and create a password.
 <br/>
 If you already have an account, log in with your email and password.<br/>
@@ -113,7 +113,7 @@ You can start a new call or join another call using the same process.
 
  ## Contact
 
-If you have any questions, suggestions, or issues, feel free to contact us:
+## If you have any questions, suggestions, or issues, feel free to contact us:
 
 Email: harjyoti127@gmail.com
 GitHub: https://github.com/harjyoti12/

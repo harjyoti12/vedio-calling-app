@@ -39,13 +39,14 @@ An awesome Group video call app
 
 
 ## Video Call App:
-<b>
+
 The Video Call App is a web application built with React.js that allows users to conduct video calls with one another. The app utilizes the Zego Cloud platform for real-time audio and video communication, providing a seamless and high-quality video calling experience.
-</b>
 <br/>
 Users can sign up and log in securely using Firebase Authentication, ensuring that only authenticated users can access the video calling features. The app is designed to be responsive, allowing users to make video calls from various devices and screen sizes.
 <br/>
 Overall, the Video Call App provides a simple and effective solution for users to connect with each other through video calls, making it ideal for remote meetings, virtual events, and social interactions.
+<br/>
+
  ## Built With
 
 React.js - A JavaScript library for building user interfaces.

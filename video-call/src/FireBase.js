@@ -34,7 +34,7 @@ const signup = async (name, email, password) => {
     });
   } catch (error) {
     console.log(error.message, error);
-   alert(error)
+    alert(error)
   }
 };
 
@@ -43,7 +43,7 @@ const login = async (email, password) => {
     await signInWithEmailAndPassword(auth, email, password);
   } catch (error) {
     console.log(error.message, error);
-    alert(error)
+    alert('Invaild Email/password')
   }
 };
 

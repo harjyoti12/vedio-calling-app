@@ -18,7 +18,7 @@ An awesome Group video call app
 
  ## About The Project
 
-![Product Screenshot](/project-img/video-camera.png)
+
 ![Product Screenshot](/project-img/History%20-%20Google%20Chrome%2009-05-2024%2017_53_56.png)
 ![Product Screenshot](/project-img/History%20-%20Google%20Chrome%2009-05-2024%2017_54_20.png)
 ![Product Screenshot](/project-img/History%20-%20Google%20Chrome%2009-05-2024%2017_54_42.png)

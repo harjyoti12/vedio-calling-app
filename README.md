@@ -39,7 +39,9 @@ An awesome Group video call app
 
 
 ## Video Call App:
+<b>
 The Video Call App is a web application built with React.js that allows users to conduct video calls with one another. The app utilizes the Zego Cloud platform for real-time audio and video communication, providing a seamless and high-quality video calling experience.
+</b>
 <br/>
 Users can sign up and log in securely using Firebase Authentication, ensuring that only authenticated users can access the video calling features. The app is designed to be responsive, allowing users to make video calls from various devices and screen sizes.
 <br/>
@@ -85,11 +87,11 @@ The app should now be running locally. Open your browser and navigate to http://
 
 ## Deploy to Netlify:
 <br/>
-Sign up for a Netlify account if you haven't already.<br/>
-Install the Netlify CLI: npm install -g netlify-cli.<br/>
-Log in to your Netlify account: netlify login.<br/>
-Navigate to the project directory and run netlify init to link your local project with a Netlify site.<br/>
-Follow the prompts to deploy your app to Netlify.<br/>
+1. Sign up for a Netlify account if you haven't already.<br/>
+2. Install the Netlify CLI: npm install -g netlify-cli.<br/>
+3. Log in to your Netlify account: netlify login.<br/>
+4. Navigate to the project directory and run netlify init to link your local project with a Netlify site.<br/>
+5. Follow the prompts to deploy your app to Netlify.<br/>
 Now, your Video Call App should be up and running both locally and on Netlify!
 <br/>
  ## Usage
@@ -98,24 +100,24 @@ Now, your Video Call App should be up and running both locally and on Netlify!
 If you don't have an account, sign up with your email and create a password.
 <br/>
 If you already have an account, log in with your email and password.<br/>
-##Start a New Video Call:
+Start a New Video Call:
 Click on the "Start New Call" button.<br/>
 Enter a name for your call (optional).<br/>
 Share the call ID with the person you want to call.<br/>
-##Join an Existing Video Call:
+Join an Existing Video Call:
 Click on the "Join Existing Call" button.<br/>
 Enter the call ID shared with you by the caller.<br/>
 During the Call:
 Use the controls to mute/unmute your microphone and enable/disable your camera.<br/>
 Click on the "End Call" button to end the call.<br/>
-##After the Call:
+ After the Call:
 You can start a new call or join another call using the same process.
 
  ## Contact
 
 ## If you have any questions, suggestions, or issues, feel free to contact us:
 
-Email: harjyoti127@gmail.com
-GitHub: https://github.com/harjyoti12/
-BuymeACoffe:https://www.buymeacoffee.com/horoji86v
+Email: harjyoti127@gmail.com <br/>
+GitHub: https://github.com/harjyoti12/ <br/>
+BuymeACoffe:https://www.buymeacoffee.com/horoji86v <br/>
 We'd love to hear from you!

@@ -1,4 +1,3 @@
-                
 <br/>
 <div align="center">
 <a href="https://github.com/harjyoti12/vedio-calling-app">
@@ -24,8 +23,7 @@ An awesome Group video call app
 - [Usage](#usage)
 - [Authors](#authors)
 
- ## About The Project
-
+## About The Project
 
 ![Product Screenshot](/project-img/History%20-%20Google%20Chrome%2009-05-2024%2017_53_56.png)
 ![Product Screenshot](/project-img/History%20-%20Google%20Chrome%2009-05-2024%2017_54_20.png)
@@ -37,7 +35,6 @@ An awesome Group video call app
 ![Product Screenshot](/project-img/New%20Incognito%20Tab%20-%20Google%20Chrome%2009-05-2024%2017_56_32.png)
 ![Product Screenshot](/project-img/New%20Incognito%20Tab%20-%20Google%20Chrome%2009-05-2024%2017_56_41.png)
 
-
 ## Video Call App:
 
 The Video Call App is a web application built with React.js that allows users to conduct video calls with one another. The app utilizes the Zego Cloud platform for real-time audio and video communication, providing a seamless and high-quality video calling experience.
@@ -47,7 +44,7 @@ Users can sign up and log in securely using Firebase Authentication, ensuring th
 Overall, the Video Call App provides a simple and effective solution for users to connect with each other through video calls, making it ideal for remote meetings, virtual events, and social interactions.
 <br/>
 
- ## Built With
+## Built With
 
 React.js - A JavaScript library for building user interfaces.
 <br/>
@@ -61,60 +58,97 @@ Netlify - Hosting platform for websites and web applications.
 **- [Firebase](https://firebase.google.com/)**
 **- [ZegoCloud](https://www.zegocloud.com/)**
 
- ## Getting Started
+## Getting Started
 
 ## To get started with the Video Call App, follow these steps:
+
 <br/>
+
 1.Clone the repository:
+<br/>
+
 git clone https://github.com/your-username/video-call-app.git
 <br/>
+
 2.Install dependencies:
+<br/>
+
 cd video-call-app
+<br/>
 npm install
 <br/>
+
 3.Set up Firebase authentication:
+<br/>
+
 Create a Firebase project at Firebase Console.
+<br/>
+
 Enable Firebase Authentication and choose the authentication methods you want to use (e.g., email/password, Google sign-in).
 Copy your Firebase project's configuration (you will need this later).
 <br/>
+
 4.Update Firebase configuration:
+<br/>
+
 In the project, find the Firebase configuration file (usually named firebaseConfig.js or similar).
 Replace the placeholder values with your Firebase project's configuration.
 <br/>
 5.Run the app:
+<br/>
+
 npm start
+<br/>
+
 The app should now be running locally. Open your browser and navigate to http://localhost:3000 to see the app in action.
 <br/>
 
 ## Deploy to Netlify:
+
 <br/>
-1. Sign up for a Netlify account if you haven't already.<br/>
+1. Sign up for a Netlify account if you haven't already.
+<br/>
+
 2. Install the Netlify CLI: npm install -g netlify-cli.<br/>
 3. Log in to your Netlify account: netlify login.<br/>
 4. Navigate to the project directory and run netlify init to link your local project with a Netlify site.<br/>
 5. Follow the prompts to deploy your app to Netlify.<br/>
-Now, your Video Call App should be up and running both locally and on Netlify!
-<br/>
- ## Usage
+   Now, your Video Call App should be up and running both locally and on Netlify!
+   <br/>
+
+## Usage
 
 ## Sign Up or Log In:
+
 If you don't have an account, sign up with your email and create a password.
 <br/>
-If you already have an account, log in with your email and password.<br/>
+If you already have an account, log in with your email and password.
+
+<br/>
+
 Start a New Video Call:
+<br/>
+
 Click on the "Start New Call" button.<br/>
+
 Enter a name for your call (optional).<br/>
 Share the call ID with the person you want to call.<br/>
 Join an Existing Video Call:
+<br/>
+
 Click on the "Join Existing Call" button.<br/>
 Enter the call ID shared with you by the caller.<br/>
 During the Call:
+<br/>
+
 Use the controls to mute/unmute your microphone and enable/disable your camera.<br/>
 Click on the "End Call" button to end the call.<br/>
- After the Call:
+After the Call:
+<br/>
+
 You can start a new call or join another call using the same process.
 
- ## Contact
+## Contact
 
 ## If you have any questions, suggestions, or issues, feel free to contact us:
 
